@@ -124,7 +124,7 @@ h5 {font-size:1em;line-height:1.667em;margin-bottom:10px}
 header nav {float:right;padding:13px 24px 0 0}
 header nav li {float:left;font-size:18px;line-height:3em;text-transform:uppercase;padding-left:21px;margin-left:19px;background:url(../images/divider.gif) repeat-y left top}
 header nav li:first-child {background:none;padding-left:0;margin-left:0}
-header nav li a {color:#fff;text-decoration:none}
+header nav li a {color:#86ffb6;text-decoration:none}
 header nav li.current a, header nav li a:hover {color:#82b704}
 header .top-info {position:absolute;left:45px;top:17px}
 /* content */
